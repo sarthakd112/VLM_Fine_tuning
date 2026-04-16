@@ -4,9 +4,6 @@
 
 ---
 
-**Author:** \[Student Name\]
-**Course:** \[Course Title\]
-**Institution:** \[University Name\]
 **Date:** April 2026
 
 ---
